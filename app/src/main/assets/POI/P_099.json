@@ -1,0 +1,186 @@
+[
+ {
+  "Id": 9900,
+  "latitude": 22.2834981258,
+  "level": "99",
+  "longitude": 114.134145211,
+  "title": "LG.07",
+  "type": 1
+ },
+ {
+  "Id": 9901,
+  "latitude": 22.2833832425,
+  "level": "99",
+  "longitude": 114.134031815,
+  "title": "LG.09",
+  "type": 0
+ },
+ {
+  "Id": 9902,
+  "latitude": 22.2833802681999,
+  "level": "99",
+  "longitude": 114.134143055,
+  "title": "LG.08",
+  "type": 1
+ },
+ {
+  "Id": 9903,
+  "latitude": 22.283504595,
+  "level": "99",
+  "longitude": 114.134034789,
+  "title": "LG.10",
+  "type": 0
+ },
+ {
+  "Id": 9904,
+  "latitude": 22.2832336934,
+  "level": "99",
+  "longitude": 114.134144363,
+  "title": "LG.16",
+  "type": 0
+ },
+ {
+  "Id": 9905,
+  "latitude": 22.2832365487,
+  "level": "99",
+  "longitude": 114.134074407,
+  "title": "LG.17",
+  "type": 1
+ },
+ {
+  "Id": 9906,
+  "latitude": 22.283167116,
+  "level": "99",
+  "longitude": 114.134098678,
+  "title": "LG.18",
+  "type": 1
+ },
+ {
+  "Id": 9907,
+  "latitude": 22.2831686837,
+  "level": "99",
+  "longitude": 114.133989932,
+  "title": "LG.20",
+  "type": 0
+ },
+ {
+  "Id": 9908,
+  "latitude": 22.283163071,
+  "level": "99",
+  "longitude": 114.133935089999,
+  "title": "LG.21",
+  "type": 1
+ },
+ {
+  "Id": 9909,
+  "latitude": 22.2832796050999,
+  "level": "99",
+  "longitude": 114.133895055,
+  "title": "LG.34",
+  "type": 1
+ },
+ {
+  "Id": 9910,
+  "latitude": 22.2833555099,
+  "level": "99",
+  "longitude": 114.133911948999,
+  "title": "LG.35",
+  "type": 0
+ },
+ {
+  "Id": 9911,
+  "latitude": 22.2834199814,
+  "level": "99",
+  "longitude": 114.13392299,
+  "title": "LG.36",
+  "type": 1
+ },
+ {
+  "Id": 9912,
+  "latitude": 22.2835073482999,
+  "level": "99",
+  "longitude": 114.13391657,
+  "title": "LG.37",
+  "type": 0
+ },
+ {
+  "Id": 9913,
+  "latitude": 22.2836434126999,
+  "level": "99",
+  "longitude": 114.134025212,
+  "title": "LG.39",
+  "type": 1
+ },
+ {
+  "Id": 9914,
+  "latitude": 22.283645697,
+  "level": "99",
+  "longitude": 114.134074037999,
+  "title": "LG.40",
+  "type": 0
+ },
+ {
+  "Id": 9915,
+  "latitude": 22.283645126,
+  "level": "99",
+  "longitude": 114.134121866,
+  "title": "LG.41",
+  "type": 0
+ },
+ {
+  "Id": 9916,
+  "latitude": 22.2836382730999,
+  "level": "99",
+  "longitude": 114.134167979,
+  "title": "LG.42",
+  "type": 1
+ },
+ {
+  "Id": 9917,
+  "latitude": 22.2836721655999,
+  "level": "99",
+  "longitude": 114.134758672,
+  "title": "LG.59",
+  "type": 1
+ },
+ {
+  "Id": 9918,
+  "latitude": 22.2836697860999,
+  "level": "99",
+  "longitude": 114.134846759,
+  "title": "LG.60",
+  "type": 0
+ },
+ {
+  "Id": 9919,
+  "latitude": 22.2835723472,
+  "level": "99",
+  "longitude": 114.134981318,
+  "title": "LG.61",
+  "type": 1
+ },
+ {
+  "Id": 9920,
+  "latitude": 22.2834961032,
+  "level": "99",
+  "longitude": 114.13497554,
+  "title": "LG.62",
+  "type": 0
+ },
+ {
+  "Id": 9921,
+  "latitude": 22.2834268609,
+  "level": "99",
+  "longitude": 114.134958408,
+  "title": "LG.63",
+  "type": 1
+ },
+ {
+  "Id": 9922,
+  "latitude": 22.2833806041,
+  "level": "99",
+  "longitude": 114.134947414,
+  "title": "LG.64",
+  "type": 0
+ }
+]

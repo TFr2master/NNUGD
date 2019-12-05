@@ -1,0 +1,26 @@
+[
+ {
+  "Id": 10000,
+  "latitude": 22.283177,
+  "level": "100",
+  "longitude": 114.134057,
+  "title": "G.01",
+  "type": 1
+ },
+ {
+  "Id": 10001,
+  "latitude": 22.283179,
+  "level": "100",
+  "longitude": 114.133963,
+  "title": "G.02",
+  "type": 0
+ },
+ {
+  "Id": 10002,
+  "latitude": 22.283229,
+  "level": "100",
+  "longitude": 114.133884,
+  "title": "G.03",
+  "type": 1
+ }
+]

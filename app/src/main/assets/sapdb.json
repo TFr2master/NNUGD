@@ -1,0 +1,36 @@
+{
+	"building":[
+		{"postalBuildingCode":"99SE062607045","name":"DKY","lon":"118.9107135","lat":"32.11686635","address":"江苏省南京市栖霞区文苑路1号地理科学学院"}
+	],
+	"level" : [
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","name":"5F","longName":"Fourth Floor"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","name":"4F","longName":"Third Floor"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"100","name":"GF","longName":"Ground Floor"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"099","name":"PF","longName":"Parking"}
+	],
+	"room" : [
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","roomCode":"a002a082","name":"424","lon":"118.910719","lat":"32.117109"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","roomCode":"a175a053","name":"Staircase","lon":"118.9112","lat":"32.117023"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","roomCode":"a136b018","name":"401","lon":"118.911094","lat":"32.116806"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","roomCode":"a306b013","name":"卫生间","lon":"118.911548","lat":"32.116855"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","roomCode":"a220b015","name":"405","lon":"118.911548","lat":"32.116855"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"103","roomCode":"a140a070","name":"Lift","lon":"118.911116","lat":"32.117034"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a306b013","name":"卫生间","lon":"118.911548","lat":"32.116855"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a219b015","name":"505","lon":"118.911313","lat":"32.116812"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a118b018","name":"501","lon":"118.911051","lat":"32.116805"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a141a059","name":"Lift","lon":"118.911115","lat":"32.117033"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a004a082","name":"529","lon":"118.910807","lat":"32.117112"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a110a085","name":"525","lon":"118.911018","lat":"32.117118"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"104","roomCode":"a151a046","name":"536","lon":"118.911116","lat":"32.116996"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"100","roomCode":"a135a011","name":"hall entrance","lon":"118.911135349","lat":"32.116922278"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"100","roomCode":"b005a037","name":"Parking","lon":"118.91061969800","lat":"32.11688671700"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"099","roomCode":"a159a026","name":"Parking","lon":"118.91115562","lat":"32.1169234"},
+		{"postalBuildingCode":"99SE062607045","levelCode":"099","roomCode":"a170b010","name":"Parking","lon":"118.91118678","lat":"32.11685351"}
+
+	],
+	"plate": [
+
+],
+	"version":"0.84"
+
+}
